@@ -55,7 +55,15 @@ Now we are done. we just need to update the grub by running the command.
 sudo update-grub
 ```
 
-After completion of the command restart your machine.
+After completion of the command 
+
+output will look like this 
+
+<img width="794" alt="Screenshot 2024-04-10 at 1 29 01 AM" src="https://github.com/Lynk4/Change-Kali-Linux-Grub-Background/assets/44930131/9dc74408-2572-4472-b1e9-33232cc4891b">
+
+
+
+Now just restart your machine.
 
 That’s it............
 ---
