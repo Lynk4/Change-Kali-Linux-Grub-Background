@@ -55,5 +55,7 @@ Now we are done. we just need to update the grub by running the command.
 sudo update-grub
 ```
 
+After completion of the command restart your machine.
+
 That’s it............
 ---
