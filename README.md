@@ -4,6 +4,8 @@ I'm using a kali linux machine on a vmware fusion .
 
 ## ***Final Results***
 
+https://github.com/Lynk4/Change-Kali-Linux-Grub-Background/assets/44930131/41a0919c-0f14-4a8a-a85b-bb85ff2d1f52
+
 ---
 
 <img width="1440" alt="Screenshot 2024-04-10 at 12 56 23 AM" src="https://github.com/Lynk4/Change-Kali-Linux-Grub-Background/assets/44930131/f93672a8-52ef-4418-8701-c6bba722c4db">
