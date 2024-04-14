@@ -43,7 +43,7 @@ Now then we shall proceed.
 
 ### 2. Then replace grub-16x9.png and grub-4x3.png images with our own choice of images in ```/boot/grub/themes/kali``` directory
 
-make sure that the replaced images have the same name as ***grub-16x9.png and grub-4x3.png***
+### Make sure that the replaced images have the same name and dimensions as the original ***grub-16x9.png and grub-4x3.png***
 
 ---
 
