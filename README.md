@@ -1,6 +1,6 @@
 # Change-Kali-Linux-Grub-Background
 
-I'm using a kali linux machine on a vmware fusion .
+I'm using a kali linux machine on a vmware fusion.
 
 ## ***Final Results***
 
